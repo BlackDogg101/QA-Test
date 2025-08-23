@@ -1,0 +1,12 @@
+# # import hello
+# import math
+# # import random
+# # import mathh
+# from mod import math
+
+# print(math.pi)
+
+from mod import some
+
+some.sub(10, 5)
+some.sum(10, 5)
