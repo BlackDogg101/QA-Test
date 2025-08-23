@@ -34,4 +34,4 @@ get_url = driver.current_url
 print(get_url)
 
 assert url == get_url
-print('Good_url')
+print('Good url')
